@@ -58,7 +58,7 @@
     cout<<"13. Power(a^b):- "<<endl;
     cout<<"14. Absoulate Solution:- "<<endl;
     cout<<"15. Quadratic Equation:- "<<endl;
-    cout<<"Entre the function(1-14):- ";
+    cout<<"Entre the function(1-15):- ";
     cin>>function;
     
         double a,b,c,result;
